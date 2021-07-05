@@ -42,7 +42,7 @@ function Home() {
   return (
     <Layout
       permalink={'/'}
-      description={'Ramesh Set up a modern web app by running one command.'}
+      description={'Set up a modern web app by running one command.'}
     >
       <div className={clsx('hero hero--dark', styles.heroBanner)}>
         <div className="container">
